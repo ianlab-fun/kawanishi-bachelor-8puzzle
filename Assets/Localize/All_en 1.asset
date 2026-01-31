@@ -1,0 +1,310 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: All_en 1
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e12aae7b4a3c27f44a59beca25dee37f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54712077377536
+    m_Localized: 'Search Process
+
+      <size=8>Mode</size>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429254168576
+    m_Localized: Visualize the search process in state space.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54715193745408
+    m_Localized: 'Puzzle Game
+
+      <size=8>Mode</size>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206131544064
+    m_Localized: Operate the puzzle and visualize its relationship with 3D space.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54717337034752
+    m_Localized: 'Path Search
+
+      <size=8>Mode</size>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7097847635968
+    m_Localized: Apply algorithms to solve the puzzle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635977
+    m_Localized: Depth-Based Circular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635969
+    m_Localized: Arrange in circles by search depth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60486207922176
+    m_Localized: Depth-Based Circular<br> (No Overlap)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60494252597248
+    m_Localized: Arrange in circles by depth without overlap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61392806731776
+    m_Localized: Depth-Based Circular<br> (3D)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61405859405824
+    m_Localized: Arrange in 3D circles by search depth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635978
+    m_Localized: Heuristic-Based Layout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635970
+    m_Localized: Arrange in circles by heuristic value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61931615412224
+    m_Localized: Heuristic-Based<br> (No Overlap)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61935016992768
+    m_Localized: Arrange in circles by heuristic without overlap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62309689974784
+    m_Localized: Heuristic-Based <br>(3D)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62312646959104
+    m_Localized: Arrange in 3D circles by heuristic value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635979
+    m_Localized: Force-Directed Layout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635971
+    m_Localized: Arrange in a spherical shell using repulsive forces from the origin
+      and small attractive forces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63437546708992
+    m_Localized: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63716123992064
+    m_Localized: Repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63944864555008
+    m_Localized: Edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64136548442112
+    m_Localized: Visualization Layout Algorithm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64466950545408
+    m_Localized: Initial State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64670722416640
+    m_Localized: Target State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64985098084352
+    m_Localized: SetUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65239717502976
+    m_Localized: Process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65320931811328
+    m_Localized: Puzzle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65460518248448
+    m_Localized: Path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65676378103808
+    m_Localized: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65969568342016
+    m_Localized: Mode Transition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66717685374976
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66815194554368
+    m_Localized: Dropdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67300697825280
+    m_Localized: Switch Exploration Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67761479272449
+    m_Localized: Return to<br><size=10>Search Process Mode</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67761479272450
+    m_Localized: Return to<br><size=10>Puzzle Game Mode</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67761479272451
+    m_Localized: Return to<br><size=10>Path Search Mode</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543599259648
+    m_Localized: Return to Mode Selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42806008602624
+    m_Localized: Show Edges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42874476421120
+    m_Localized: Reset Position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43365251932160
+    m_Localized: Current State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43756567912448
+    m_Localized: Initial State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44463601737728
+    m_Localized: Camera Distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5118929579008000
+    m_Localized: Puzzle Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44893790527488
+    m_Localized: Undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44951722254336
+    m_Localized: Redo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45798141190144
+    m_Localized: Path Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45977141501952
+    m_Localized: Select Search Algorithm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46360001765376
+    m_Localized: Execution Interval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46573491838976
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46743382122496
+    m_Localized: Auto Execute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47582834319360
+    m_Localized: Search Process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47798664814592
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49989865693184
+    m_Localized: Show Path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50109495631872
+    m_Localized: Hide Path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54066762735616
+    m_Localized: Hide Edges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65379417186304
+    m_Localized: Switch to Normal Model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65410148851712
+    m_Localized: Switch to Light Model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000001
+    m_Localized: Select a layout algorithm and choose a mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000002
+    m_Localized: Select a search algorithm and press the button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000003
+    m_Localized: Select a search algorithm and press Execute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000004
+    m_Localized: Move freely using WASD keys or mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000005
+    m_Localized: Operate the puzzle with clicks or arrow keys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000001
+    m_Localized: '{0:F2}s'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000010
+    m_Localized: Execute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000011
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000012
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5122681161637888
+    m_Localized: Now Loading... {0:N0} / {1:N0} ({2:P1})
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6642949201846272
+    m_Localized: License
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

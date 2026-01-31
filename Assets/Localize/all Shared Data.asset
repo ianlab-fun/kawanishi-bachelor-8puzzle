@@ -1,0 +1,310 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: All Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: All
+  m_TableCollectionNameGuidString: e12aae7b4a3c27f44a59beca25dee37f
+  m_Entries:
+  - m_Id: 54712077377536
+    m_Key: searchprocess_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429254168576
+    m_Key: searchprocess_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54715193745408
+    m_Key: puzzlegame_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206131544064
+    m_Key: puzzlegame_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54717337034752
+    m_Key: pathsearch_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7097847635968
+    m_Key: pathsearch_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635977
+    m_Key: depthbasedcircular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635969
+    m_Key: depthbasedcircular_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60486207922176
+    m_Key: depthbasedcircular_sp_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60494252597248
+    m_Key: 'depthbasedcircular_sp_desc
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61392806731776
+    m_Key: depthbasedcircular_3d_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61405859405824
+    m_Key: depthbasedcircular_3d_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635978
+    m_Key: hcostbasedcircular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635970
+    m_Key: hcostbasedcircular_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61931615412224
+    m_Key: hcostbasedcircular_sp_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61935016992768
+    m_Key: hcostbasedcircular_sp_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62309689974784
+    m_Key: hcostbasedcircular_3d_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62312646959104
+    m_Key: hcostbasedcircular_3d_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635979
+    m_Key: forcedirected_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8102847635971
+    m_Key: forcedirected_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63437546708992
+    m_Key: description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63716123992064
+    m_Key: repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63944864555008
+    m_Key: edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64136548442112
+    m_Key: visualize_location_algorithm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64466950545408
+    m_Key: initialstate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43365251932160
+    m_Key: currentstate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64670722416640
+    m_Key: targetstate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64985098084352
+    m_Key: selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65239717502976
+    m_Key: process
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65320931811328
+    m_Key: puzzle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65460518248448
+    m_Key: path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65676378103808
+    m_Key: search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65969568342016
+    m_Key: modes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66717685374976
+    m_Key: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66815194554368
+    m_Key: dropdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67300697825280
+    m_Key: switch_exploration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67761479272449
+    m_Key: searchprocess_return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67761479272450
+    m_Key: puzzlegame_return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67761479272451
+    m_Key: pathsearch_return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39543599259648
+    m_Key: modeselect_return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42806008602624
+    m_Key: edge_visible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54066762735616
+    m_Key: edge_invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42874476421120
+    m_Key: position_reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43756567912448
+    m_Key: puzzle_reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44463601737728
+    m_Key: camera_distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44893790527488
+    m_Key: undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44951722254336
+    m_Key: redo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45798141190144
+    m_Key: pathsearch_sp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45977141501952
+    m_Key: searchalgorithmselect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46360001765376
+    m_Key: execute_interval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000001
+    m_Key: execute_interval_value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46573491838976
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46743382122496
+    m_Key: auto_execute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47582834319360
+    m_Key: searchprocess_sp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5118929579008000
+    m_Key: puzzlegame_sp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47798664814592
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49989865693184
+    m_Key: path_visible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50109495631872
+    m_Key: path_invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65379417186304
+    m_Key: puzzle_model_normal_switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65410148851712
+    m_Key: puzzle_model_light_switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000001
+    m_Key: guide_setup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000002
+    m_Key: guide_searchprocess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000003
+    m_Key: guide_pathsearch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000004
+    m_Key: guide_exploration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70000000000005
+    m_Key: guide_puzzlegame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000010
+    m_Key: btn_execute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000011
+    m_Key: btn_pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80000000000012
+    m_Key: btn_resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5122681161637888
+    m_Key: slider_progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6642949201846272
+    m_Key: license
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 659191966692802637
+  references:
+    version: 2
+    RefIds:
+    - rid: 659191966692802637
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1766988155458
